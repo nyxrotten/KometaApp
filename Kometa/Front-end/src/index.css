@@ -1,0 +1,16 @@
+* {
+    font-family: "Jost", sans-serif;
+    margin: 0px;
+}
+
+:root {
+    --green: #67EB99;
+    --paleGreen: #bbf7d1;
+    --yellow: #EBD367;
+    --blue: #6968EB;
+    --paleBlue: #a9b4f8;
+    --veryPaleBlue: #e1e7fe;
+    --red: #EB6E67;
+    --grey: #747496;
+}
+
